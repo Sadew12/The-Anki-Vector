@@ -1,3 +1,3 @@
-worker: python3 -m AnkiVector
-web: python3 -m AnkiVector
+worker: python3 -m shela
+web: python3 -m shela
 ps:scale worker=1
