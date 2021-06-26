@@ -1,7 +1,7 @@
 {
-      "name": "The Anki Vector",
+      "name": "shela",
       "description": "An Anime themed Telegram group management bot.",
-      "logo": "https://telegra.ph/file/e10a45d0433a1ab6fed7b.jpg",
+      "logo": "https://telegra.ph/file/0eecf035f4fa980f72371.jpg",
       "keywords": [
          "telegram",
          "anime",
@@ -54,7 +54,7 @@
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "Damantha_Jasinghe"
+         "value": "kmsrk"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to saitama support than consider you made an enemy.",
