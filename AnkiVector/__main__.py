@@ -79,15 +79,15 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="➕ Add shela to your group ➕", url="t.me/shelabot?startgroup=true"
+            text="➕ Add shela to your group ➕", url="t.me/Theshelabot?startgroup=true"
         ),
     ],
 ]
 
-ANKIVECTOR_IMG = "https://telegra.ph/file/e10a45d0433a1ab6fed7b.jpg"
+ANKIVECTOR_IMG = "https://telegra.ph/file/0eecf035f4fa980f72371.jpg"
 
 HELP_STRINGS = f"""
-*Main Commands :* [🤖](https://telegra.ph/file/e10a45d0433a1ab6fed7b.jpg)
+*Main Commands :* [🤖](https://telegra.ph/file/0eecf035f4fa980f72371.jpg)
 ✪ /start: Starts me! You've probably already used this.
 ✪ /help: Click this, I'll let you know about myself!
 ✪ /donate: You can support my creater using this command.
